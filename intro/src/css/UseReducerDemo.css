@@ -1,0 +1,61 @@
+
+
+
+html{
+
+    font-size:8px;
+}
+
+
+
+.card{
+    display: flex;
+    flex-direction: column;
+    background-color: #c0e1c0;
+    padding: 2 rem;
+    border-radius: 1 rem;
+
+}
+
+
+div.card_layout{
+
+    display: flex;
+    padding: 2rem;
+    flex-direction: row;
+
+}
+
+
+.option_red{
+
+    border-radius:2rem ;
+    width:1rem;
+    height:1rem;
+    background-color: #ca6d6d;
+    margin-left: 1rem;
+}
+
+
+.option_blue{
+
+    border-radius:2rem ;
+    width:1rem;
+    height:1rem;
+    margin-left: 1rem;
+    background-color: #656599;
+}
+
+.option_yellow{   
+    border-radius:2rem ;
+    width:1rem;
+    height:1rem;
+    background-color: #e2f389;
+    margin-left: 1rem;
+
+}
+
+
+
+
+

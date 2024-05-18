@@ -1,0 +1,48 @@
+
+html{
+
+    font-size:8px
+
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+
+h1{
+
+padding:6rem;
+font-family: cursive;
+text-align: center;
+margin: 1rem;
+font-size:16rem;
+
+}
+
+
+button.inc{
+    width: 50%;
+    padding: 2rem;
+    background-color:green;
+    color:white;
+    border-radius: 2rem;
+    flex:1;
+    font-size: 10rem;
+
+}
+
+
+button.dec{
+    width: 50%;
+    padding: 2rem;
+    background-color: brown;
+    color:white;
+    border-radius: 2rem;
+    font-size: 10rem;
+
+}

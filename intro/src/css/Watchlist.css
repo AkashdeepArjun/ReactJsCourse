@@ -1,0 +1,26 @@
+
+
+html{
+
+    font-size:8px
+}
+
+li{
+
+padding: 1rem;
+font-family: cursive;
+background-color: rgb(60, 162, 60);
+color: white;
+margin: 1rem;
+cursor: pointer;
+
+
+}
+
+
+button{
+
+    background-color: rgb(103, 25, 103);
+    border-radius: 1rem;
+
+}
